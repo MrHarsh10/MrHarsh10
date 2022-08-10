@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center><h1>你好哇！！！</h1></center>
-![](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
-<h2>[This is my blog](https://www.mrharsh.top/)</h2>
