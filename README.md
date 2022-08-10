@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ----
 
+![[个人博客](https://www.mrharsh.top/archives/)](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
+
 [个人博客](https://www.mrharsh.top/archives/)
-
-![](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
-
