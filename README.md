@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 ----
 
 ![[个人博客](https://www.mrharsh.top/archives/)](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
-
+<h1 align="center"> 
 [个人博客](https://www.mrharsh.top/)
+</h1>
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+  浏览量<br>
   <img src="https://profile-counter.glitch.me/MrHarsh10/count.svg" />
 </p>
