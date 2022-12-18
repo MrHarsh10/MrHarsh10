@@ -19,18 +19,15 @@ Here are some ideas to get you started:
 <h1 align="center">
 你好哇！👋<br>
 Hello ！👋
-
-
-
- <br>
-[个人博客](https://www.mrharsh.top/)
 </h1>
+
+[个人博客](https://www.mrharsh.top/)
+
 <br>
 
 <p align="center"> 
   浏览量<br>
   <img src="https://profile-counter.glitch.me/MrHarsh10/count.svg" />
-
 </p>
 
 <h1 align="center">
