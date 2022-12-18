@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">
 你好哇！👋<br>
 Hello ！👋
-----
 
 
- 
+
+ <br>
 [个人博客](https://www.mrharsh.top/)
 </h1>
 <br>
