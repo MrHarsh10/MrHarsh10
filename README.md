@@ -28,5 +28,9 @@ Here are some ideas to get you started:
 <p align="center"> 
   浏览量<br>
   <img src="https://profile-counter.glitch.me/MrHarsh10/count.svg" />
- ![[个人博客](https://www.mrharsh.top/archives/)](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
+
 </p>
+
+<p align="center">
+ ![[个人博客](https://www.mrharsh.top/archives/)](https://s2.loli.net/2022/08/08/XPao6Bwfkjc2drg.jpg)
+ </p>
