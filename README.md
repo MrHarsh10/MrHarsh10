@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hello ！👋
 </h1>
 
-<a href="https://www.mrharsh.top"><h1>个人博客</h1></a>
+<a align="center" href="https://www.mrharsh.top"><h1>个人博客</h1></a>
 
 <br>
 
