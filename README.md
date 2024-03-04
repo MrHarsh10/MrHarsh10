@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 你好哇！👋<br>
 </h1>
 <p align="center"> 
-<a  href="https://www.mrharsh.top">个人博客</a></p>
+<a  href="https://www.helicunzai.cn">个人博客</a></p>
 <br>
 <p align="center"> 
   浏览量<br>
