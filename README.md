@@ -6,7 +6,7 @@
 - **Platforms**: ESP32, STM32, Arduino, Allwinner F1C200S
 - **Protocols**: I2C, SPI, UART, MQTT, HTTP
 - **Embedded Tools**: PlatformIO, ESP-IDF, FreeRTOS
-- **Electronics**: EasyEDA, KiCad, soldering, oscilloscope
+- **Electronics**: EasyEDA, soldering
 - **Software Tools**: Git, VSCode, Linux CLI
 - **Web**: Flask, REST APIs, basic frontend (HTML/JS)
 
