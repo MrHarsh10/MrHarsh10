@@ -3,7 +3,7 @@
 # 👋Hi
 ## 🛠️ Skills
 - **Languages**: C++, Python, JavaScript
-- **Platforms**: ESP32, STM32, Arduino, Allwinner F1C200S
+- **Platforms**: ESP32, STM32, Arduino
 - **Protocols**: I2C, SPI, UART, MQTT, HTTP
 - **Embedded Tools**: PlatformIO, ESP-IDF, FreeRTOS
 - **Electronics**: EasyEDA, soldering
